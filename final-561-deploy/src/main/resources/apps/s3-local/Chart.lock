@@ -1,6 +1,6 @@
 dependencies:
 - name: aissemble-localstack-chart
   repository: oci://ghcr.io/boozallen
-  version: 1.11.0-SNAPSHOT
-digest: sha256:910e73a3b9a50ffe5502ba561c97b4feec4fd3bcd206c112d0343086901096f1
-generated: "2025-02-04T14:11:31.245678-08:00"
+  version: 1.10.0
+digest: sha256:a090d04bd5d95b296e0bf0aaacf5a01b9df5686b99754b40b64fca7a9d4afa03
+generated: "2025-02-05T15:51:46.061537-08:00"
