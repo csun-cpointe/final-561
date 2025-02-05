@@ -1,0 +1,5 @@
+
+image:
+  name: final-561-tests-docker
+  imagePullPolicy: IfNotPresent
+  dockerRepo: ""
