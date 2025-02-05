@@ -1,3 +1,4 @@
+{{- if .Values.s3LocalEnabled }}
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
@@ -25,3 +26,4 @@ spec:
   syncPolicy:
     {{- toYaml . | nindent 4 }}
   {{- end }}
+{{- end }}
